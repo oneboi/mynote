@@ -7,4 +7,4 @@
 
 ---
 
-![图片](./image/1.jpg)
+![图片](http://www.oneboi/image/1.jpg)
