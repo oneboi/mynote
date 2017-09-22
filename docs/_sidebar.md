@@ -1,6 +1,10 @@
 - [首页](/)
+- [es6](/es6/index)
+- [nodejs模块](/1.nodeguifan)
+- [es6模块](/2.es6guifan)
+- [vueapi](/api)
 - [收集的网址](/web)
 - [计划](/plan)
-- [funs](/fun)
+- [悦悦](/fun)
 - [联系我](/about)
 
