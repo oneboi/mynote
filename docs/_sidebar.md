@@ -7,4 +7,5 @@
 - [计划](/plan)
 - [悦悦](/fun)
 - [联系我](/about)
-
+- [vuecode资源](/vuecore)
+- [new学习](/news)
